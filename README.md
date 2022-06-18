@@ -1,4 +1,4 @@
-# plogging 💚 <a href:https://github.com/kdtchacha/plogging><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+# plogging 💚
 
 플로깅 프로젝트 입니다. https://github.com/kdtchacha/plogging
 
